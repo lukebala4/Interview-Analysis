@@ -1,0 +1,26 @@
+Parent,site_count,total_revenue,states,has_hot_lead
+Velocity Clinical Research,50,208572288.81,"['MD', 'SC', 'ID', 'CA', 'NY', 'RI', 'UT', 'AZ', 'MS', 'NC', 'OR', 'IN', 'FL', 'IA', 'NM', 'GA', 'DC', 'LA', 'NE', 'VA', 'WA', 'TX', 'OH']",True
+Dm Clinical Research,20,79333848.27,"['NY', 'TX', 'MA', 'IL', 'MI', 'PA']",True
+Headlands Research,20,67385290.08,"['OR', 'MO', 'FL', 'CA', 'NC', 'TX', 'MI', 'GA']",True
+The Ohio State University,6,53850159.779999994,"['OH', 'MI', 'FL']",True
+Alcanza Clinical Research,23,45401105.82,"['SC', 'MO', 'FL', 'VA', 'NH', 'PR', 'MA', 'MI', 'GA']",True
+Avacare,23,44438298.84,"['AZ', 'NV', 'NE', 'MO', 'IA', 'CA', 'NC', 'KY', 'TX', 'CO', 'UT', 'GA', 'PA']",True
+Alliance For Multispecialty Research,16,43093180.919999994,"['AZ', 'NV', 'LA', 'MO', 'KS', 'OK', 'FL', 'TN', 'VA', 'KY', 'IL']",True
+Alliance Clinical Network,15,34784396.56,"['CA', 'TX', 'MA', 'NV']",True
+Dept Of Veterans Affairs,45,26949067.470000003,"['MD', 'SC', 'CA', 'NY', 'MA', 'CO', 'AR', 'MI', 'UT', 'MS', 'MO', 'NC', 'OR', 'CT', 'FL', 'GA', 'MN', 'NE', 'VA', 'WA', 'TX', 'OH', 'IL', 'PA']",True
+Centricity Research,8,16427690.06,"['NC', 'VA', 'TX', 'OH', 'GA']",True
+Atlas Clinical Research,3,16101430.56,"['NY', 'PA', 'FL']",True
+Clinical Research Network,3,10676458.68,"['MA', 'CO']",True
+Phasewell Research,3,9960078.42,"['OH', 'FL']",True
+Pinnacle Clinical Research,8,8812219.89,"['AL', 'NV', 'VA', 'TX', 'GA']",True
+Acrc Trials,4,5442725.25,['TX'],True
+Monroe Biomedical Research,1,4387382.64,['NC'],True
+Topography Health,1,4043117.9,['CA'],True
+Prolerity Clinical Research,2,3963785.2,"['LA', 'FL']",True
+New Horizon Research Group,2,2763816.82,['AL'],True
+Helios Clinical Research,4,1658636.27,"['NY', 'TN', 'TX']",True
+Fomat,1,1354445.26,['CA'],True
+Allervie Health,3,1009721.1,['AL'],True
+Hca Healthcare,1,366905.67,['GA'],True
+Circuit Clinical,1,196341.3,['NY'],True
+Profound Research,1,107566.32,['MI'],True
