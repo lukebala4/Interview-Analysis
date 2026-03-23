@@ -13,16 +13,24 @@ Plan a 2-week road trip across the US to close maximum deals with clinical trial
 
 ---
 
-## View Interactive Maps (click to open)
+## Deliverables
 
-> **Task 1 — US Landscape Map (4,505 sites)**
-> [**Open Map**](https://htmlpreview.github.io/?https://github.com/lukebala4/Interview-Analysis/blob/claude/gtm-strategy-plan-dEjby/02_landscape_map/us_clinical_sites_map.html)
+### Task 1 — US Landscape Map (4,505 sites)
+All clinical trial sites colored by therapeutic area, sized by 2024 sponsor payments.
 
-> **Task 2 — Road Trip Route Map (254 targets)**
-> [**Open Map**](https://htmlpreview.github.io/?https://github.com/lukebala4/Interview-Analysis/blob/claude/gtm-strategy-plan-dEjby/03_road_trip_plan/road_trip_map.html)
+![US Clinical Trial Sites Landscape](02_landscape_map/us_clinical_sites_map.png)
 
-> **Bonus — Sponsor-Site Network Graph**
-> [**Open Network**](https://htmlpreview.github.io/?https://github.com/lukebala4/Interview-Analysis/blob/claude/gtm-strategy-plan-dEjby/04_sponsor_network/sponsor_site_network.html)
+### Task 2 — Road Trip Route Map (254 targets)
+FPO hot lead targets with 7-stop route: Week 1 Texas, Week 2 Florida.
+
+![Road Trip Route Map](03_road_trip_plan/road_trip_map.png)
+
+### Bonus — Sponsor-Site Network Analysis
+Top pharma sponsors decoded from protocol IDs, showing site relationships.
+
+![Sponsor-Site Network](04_sponsor_network/sponsor_site_network.png)
+
+> **Interactive versions** (download and open locally): [Landscape Map HTML](02_landscape_map/us_clinical_sites_map.html) | [Road Trip HTML](03_road_trip_plan/road_trip_map.html) | [Network HTML](04_sponsor_network/sponsor_site_network.html)
 
 ---
 
